@@ -61,3 +61,7 @@ python3 turtlesim_controller.py
 Exemplo
 ```bash
 python3 cli_interface.py --vx 0.0 --vy 4.0 --vt 3.0 -t 1000
+```
+---
+
+Todas as referências e apoios utilizados estão em `turtlesim_ws/src/turtlesim_pkg/turtlesim_pkg/referencias.md`
