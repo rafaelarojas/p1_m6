@@ -1,0 +1,31 @@
+running egg_info
+creating ../build/turtlesim_pkg/turtlesim_pkg.egg-info
+writing ../build/turtlesim_pkg/turtlesim_pkg.egg-info/PKG-INFO
+writing dependency_links to ../build/turtlesim_pkg/turtlesim_pkg.egg-info/dependency_links.txt
+writing entry points to ../build/turtlesim_pkg/turtlesim_pkg.egg-info/entry_points.txt
+writing requirements to ../build/turtlesim_pkg/turtlesim_pkg.egg-info/requires.txt
+writing top-level names to ../build/turtlesim_pkg/turtlesim_pkg.egg-info/top_level.txt
+writing manifest file '../build/turtlesim_pkg/turtlesim_pkg.egg-info/SOURCES.txt'
+reading manifest file '../build/turtlesim_pkg/turtlesim_pkg.egg-info/SOURCES.txt'
+writing manifest file '../build/turtlesim_pkg/turtlesim_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build
+creating /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build/lib
+creating /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build/lib/turtlesim_pkg
+copying turtlesim_pkg/__init__.py -> /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build/lib/turtlesim_pkg
+running install
+running install_lib
+creating /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages/turtlesim_pkg
+copying /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build/lib/turtlesim_pkg/__init__.py -> /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages/turtlesim_pkg
+byte-compiling /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages/turtlesim_pkg/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/ament_index
+creating /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/ament_index/resource_index
+creating /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/ament_index/resource_index/packages
+copying resource/turtlesim_pkg -> /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/turtlesim_pkg
+running install_egg_info
+Copying ../build/turtlesim_pkg/turtlesim_pkg.egg-info to /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages/turtlesim_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/install.log'

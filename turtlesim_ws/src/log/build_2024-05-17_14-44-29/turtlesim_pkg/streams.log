@@ -1,0 +1,33 @@
+[2.487s] Invoking command in '/home/rafa/p1_m6/turtlesim_ws/src/turtlesim_pkg': PYTHONPATH=/home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/prefix_override:/home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlesim_pkg build --build-base /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build install --record /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/install.log --single-version-externally-managed install_data
+[2.700s] running egg_info
+[2.701s] creating ../build/turtlesim_pkg/turtlesim_pkg.egg-info
+[2.701s] writing ../build/turtlesim_pkg/turtlesim_pkg.egg-info/PKG-INFO
+[2.701s] writing dependency_links to ../build/turtlesim_pkg/turtlesim_pkg.egg-info/dependency_links.txt
+[2.701s] writing entry points to ../build/turtlesim_pkg/turtlesim_pkg.egg-info/entry_points.txt
+[2.701s] writing requirements to ../build/turtlesim_pkg/turtlesim_pkg.egg-info/requires.txt
+[2.701s] writing top-level names to ../build/turtlesim_pkg/turtlesim_pkg.egg-info/top_level.txt
+[2.702s] writing manifest file '../build/turtlesim_pkg/turtlesim_pkg.egg-info/SOURCES.txt'
+[2.703s] reading manifest file '../build/turtlesim_pkg/turtlesim_pkg.egg-info/SOURCES.txt'
+[2.703s] writing manifest file '../build/turtlesim_pkg/turtlesim_pkg.egg-info/SOURCES.txt'
+[2.704s] running build
+[2.704s] running build_py
+[2.704s] creating /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build
+[2.704s] creating /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build/lib
+[2.704s] creating /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build/lib/turtlesim_pkg
+[2.704s] copying turtlesim_pkg/__init__.py -> /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build/lib/turtlesim_pkg
+[2.704s] running install
+[2.704s] running install_lib
+[2.705s] creating /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages/turtlesim_pkg
+[2.705s] copying /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build/lib/turtlesim_pkg/__init__.py -> /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages/turtlesim_pkg
+[2.705s] byte-compiling /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages/turtlesim_pkg/__init__.py to __init__.cpython-310.pyc
+[2.706s] running install_data
+[2.706s] creating /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/ament_index
+[2.706s] creating /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/ament_index/resource_index
+[2.706s] creating /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/ament_index/resource_index/packages
+[2.706s] copying resource/turtlesim_pkg -> /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/ament_index/resource_index/packages
+[2.706s] copying package.xml -> /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/share/turtlesim_pkg
+[2.706s] running install_egg_info
+[2.707s] Copying ../build/turtlesim_pkg/turtlesim_pkg.egg-info to /home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages/turtlesim_pkg-0.0.0-py3.10.egg-info
+[2.708s] running install_scripts
+[2.728s] writing list of installed files to '/home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/install.log'
+[2.757s] Invoked command in '/home/rafa/p1_m6/turtlesim_ws/src/turtlesim_pkg' returned '0': PYTHONPATH=/home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/prefix_override:/home/rafa/p1_m6/turtlesim_ws/src/install/turtlesim_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/turtlesim_pkg build --build-base /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/build install --record /home/rafa/p1_m6/turtlesim_ws/src/build/turtlesim_pkg/install.log --single-version-externally-managed install_data
